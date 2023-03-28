@@ -7,7 +7,7 @@ namespace Lab1_DK_MOOP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Я заебался!!!");
+            Console.WriteLine("Обожаю МООП!!!");
         }
     }
 }
